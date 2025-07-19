@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.b0ea5fbd.css",
+    "main.css": "./static/css/main.268d4a9f.css",
     "main.js": "./static/js/main.39dc4511.js",
     "static/media/banner-phones.png": "./static/media/banner-phones.b4eeda8bd82b712057a2.png",
     "static/media/NiceGadgets.svg": "./static/media/NiceGadgets.645bf4ec7869a38d6a2dc11b1872a4c7.svg",
@@ -30,11 +30,11 @@
     "index.html": "./index.html",
     "static/media/Minus.svg": "./static/media/Minus.812f73eb6e44170d11cbf862206d0b76.svg",
     "static/media/Hamburger.svg": "./static/media/Hamburger.0d3c31af19b9c297e9457042ec495ba1.svg",
-    "main.b0ea5fbd.css.map": "./static/css/main.b0ea5fbd.css.map",
+    "main.268d4a9f.css.map": "./static/css/main.268d4a9f.css.map",
     "main.39dc4511.js.map": "./static/js/main.39dc4511.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0ea5fbd.css",
+    "static/css/main.268d4a9f.css",
     "static/js/main.39dc4511.js"
   ]
 }
